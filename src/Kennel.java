@@ -1,3 +1,5 @@
+import Dog.Dog;
+
 public class Kennel {
     public static void main(String[] args) {
         Kennel kennel = new Kennel(2);
